@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "841760585642",
+    "project_id": "notion-f50bf",
+    "storage_bucket": "notion-f50bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841760585642:android:8e32b64279251d8d3e1dd3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841760585642-cbfe35d8kfdrpd9qklsjg18gb11u1jl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOtt1Hqkgyavv3uDg2adnrAgy5HCR3G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841760585642-cbfe35d8kfdrpd9qklsjg18gb11u1jl8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841760585642-1votcdfa34vlqgmdfbjjcj0m8fhcdqlm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
